@@ -1,4 +1,4 @@
-import { g as getEntry } from '../../../chunks/_astro_content_DdpFGFWM.mjs';
+import { g as getEntry } from '../../../chunks/_astro_content_CAQqhmPu.mjs';
 export { renderers } from '../../../renderers.mjs';
 
 const prerender = false;
